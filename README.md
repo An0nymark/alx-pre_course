@@ -1,2 +1,2 @@
-#ALX SCHOOL
+# ALX SCHOOL
 My first readme
